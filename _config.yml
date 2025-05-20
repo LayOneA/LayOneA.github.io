@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "imgp.jpg"
+  avatar           : "imgp.png"
   name             : "YANG Jiahao (杨家豪)"
   pronouns         : "he/his"  
   bio              : "Undergraduate student of Computer Science and Engineering(CSE) at CUHKSZ"
