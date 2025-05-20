@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "imgp.png"
   name             : "YANG Jiahao (杨家豪)"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "Undergraduate student of Computer Science and Engineering(CSE) at CUHKSZ"
   location         : "Shenzhen, Guangdong"
   employer         : "The Chinese University of Hong Kong, Shenzhen"
