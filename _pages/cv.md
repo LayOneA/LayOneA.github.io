@@ -17,6 +17,6 @@ I have uploaded my resume in both Chinese and English versions. You can view and
 ## Chinese Version
 ------
 **Last update: May 19, 2025**
-<i class="fas fa-file-pdf"></i> [ENG](/files/CV-CN.pdf){: .btn .btn--info .btn--large}
+<i class="fas fa-file-pdf"></i> [CHN](/files/CV-CN.pdf){: .btn .btn--info .btn--large}
 
 {% include base_path %}
