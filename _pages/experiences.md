@@ -10,3 +10,4 @@ author_profile: true
 
 ## ​**Digital Jinhua Technology Operation CO., LTD.​**​  
 | ​**Java Backend Developer Intern**​ | *Jul 2024 – Aug 2024* |
+|----------------------------------|----------------------|
