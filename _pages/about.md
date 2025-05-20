@@ -13,4 +13,4 @@ Hello! 你好! Bonjour! Hola! Hallo! Ciao! こんにちは! 안녕하세요!
 
 ## Education
 ------
-- **BSc in Computer Science and Engineering**, The Chinese University of Hong Kong, Shenzhen (2022-2024)
+- **BSc in Computer Science and Engineering**, The Chinese University of Hong Kong, Shenzhen (2022-2026)
