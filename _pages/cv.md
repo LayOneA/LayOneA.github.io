@@ -9,7 +9,6 @@ redirect_from:
 
 I have uploaded my resume in both Chinese and English versions. You can view and download them via the links below.
 
-hhhhhh
 ## English Version
 ------
 **Last update: September 3, 2024**
