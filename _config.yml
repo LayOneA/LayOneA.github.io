@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "imgp.jpg"
   name             : "YANG Jiahao (杨家豪)"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "he/his"  
+  bio              : "Undergraduate student of Computer Science and Engineering(CSE) at CUHKSZ"
+  location         : "Shenzhen, Guangdong"
+  employer         : "The Chinese University of Hong Kong, Shenzhen"
   uri              : # URL
   email            : "none@example.org" 
 
