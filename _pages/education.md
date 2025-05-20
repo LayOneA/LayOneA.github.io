@@ -10,4 +10,4 @@ author_profile: true
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+- **BSc in Computer Science and Engineering**, The Chinese University of Hong Kong, Shenzhen (2022-2026)
