@@ -14,3 +14,9 @@ I am a junior student at [The Chinese University of Hong Kong, Shenzhen](https:/
 ## Education
 ------
 - **BSc in Computer Science and Engineering**, The Chinese University of Hong Kong, Shenzhen (2022-2026)
+
+
+## Contact
+------
+If you would like to contact me, please send me an email. My email address is listed below.
+- **Email**: [jiahaoyang131@gmail.com](jiahaoyang131@gmail.com) or [jiahaoyang2@link.cuhk.edu.cn](jiahaoyang2@link.cuhk.edu.cn)
