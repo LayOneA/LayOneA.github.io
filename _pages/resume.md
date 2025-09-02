@@ -17,7 +17,7 @@ I have uploaded my resume in both Chinese and English versions. You can view and
 
 ## Chinese Version
 ------
-**Last update: Sep 2, 2025**
+**Last update: Sep 3, 2025**
 
 <i class="fas fa-file-pdf"></i> [CHN](/files/Resume_CN.pdf)
 
