@@ -20,4 +20,4 @@ author_profile: true
 1. Responsible for server-side related work of overseas business, including but not limited to core infrastructure development, API implementation, and platform construction.
 2. Continuously optimize existing services and address system bottlenecks to enhance stability and performance.
 3. Improve foundational components to better support business iteration.
- - **Period**: Jun 2025 – Present
+ - **Period**: Jun 2025 – Sep 2025
