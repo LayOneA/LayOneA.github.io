@@ -11,3 +11,12 @@ author_profile: true
 ## ​**Digital Jinhua Technology Operation CO., LTD.​**​  
  - **Position**: Java Backend Developer Intern
  - **Period**: Jul 2024 – Aug 2024
+
+## ​**Baidu International Technology (Shenzhen) Co., LTD.​**​  
+ - **Position**: Golang Backend Developer Intern
+ - **Job Description**:
+1. Responsible for server-side related work of overseas business, including but not limited to core infrastructure development, API implementation, and platform construction.
+2. Continuously optimize existing services and address system bottlenecks to enhance stability and performance.
+3. Improve foundational components to better support business iteration.
+4. Participate in tracking and researching cutting-edge technologies to drive product innovation.
+ - **Period**: Jun 2025 – Present
