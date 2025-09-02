@@ -11,7 +11,7 @@ author_profile: true
 ## ​**Digital Jinhua Technology Operation CO., LTD.​**​  
  - **Position**: Java Backend Developer Intern
  - **Job Description**:
-   Assist in maintaining and improving the municipal government stability maintenance website developed by company.
+  1. Assist in maintaining and improving the municipal government stability maintenance website developed by company.
  - **Period**: Jul 2024 – Aug 2024
 
 ## ​**Baidu International Technology (Shenzhen) Co., LTD.​**​  
