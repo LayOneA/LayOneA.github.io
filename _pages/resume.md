@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-I have uploaded my resume in both Chinese and English versions. You can view and download them via the links below.
+I have uploaded my resume and CV in Chinese or English version. You can view and download them via the links below.
 
 ## English Resume
 ------
