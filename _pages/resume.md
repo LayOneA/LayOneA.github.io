@@ -9,15 +9,21 @@ redirect_from:
 
 I have uploaded my resume in both Chinese and English versions. You can view and download them via the links below.
 
-## English Version
+## English Resume
 ------
-**Last update: Sep 6, 2025**
+**Last update: Sep 25, 2025**
 
 <i class="fas fa-file-pdf"></i> [ENG](/files/Resume.pdf)
 
-## Chinese Version
+## English CV
 ------
-**Last update: Sep 3, 2025**
+**Last update: Sep 25, 2025**
+
+<i class="fas fa-file-pdf"></i> [ENG](/files/Resume.pdf)
+
+## Chinese Resume
+------
+**Last update: Sep 25, 2025**
 
 <i class="fas fa-file-pdf"></i> [CHN](/files/Resume_CN.pdf)
 
