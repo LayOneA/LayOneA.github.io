@@ -19,7 +19,7 @@ I have uploaded my resume and CV in Chinese or English version. You can view and
 ------
 **Last update: Sep 25, 2025**
 
-<i class="fas fa-file-pdf"></i> [ENG](/files/Resume.pdf)
+<i class="fas fa-file-pdf"></i> [ENG](/files/CV.pdf)
 
 ## Chinese Resume
 ------
