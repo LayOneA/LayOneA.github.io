@@ -8,8 +8,6 @@ author_profile: true
 
 ## Preprints
 ------
-- 1. **EVA-MILP: Towards Standardized Evaluation of MILP Instance Generation**
-     
-     Yidong Luo, Chenguang Wang, ***Jiahao Yang***, Fanzeng Xia, Tianshu Yu
-
-     [Paper](https://arxiv.org/html/2505.24779v2)
+- **EVA-MILP: Towards Standardized Evaluation of MILP Instance Generation**
+  Yidong Luo, Chenguang Wang, ***Jiahao Yang***, Fanzeng Xia, Tianshu Yu
+  [Paper](https://arxiv.org/html/2505.24779v2)
