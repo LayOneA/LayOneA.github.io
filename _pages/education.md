@@ -15,3 +15,9 @@ author_profile: true
 ## Non-Degree Program
 ------
 - [**Data Science for Beginners: Theory, Algorithms and Applications**](https://datascience.hku.hk/2023/03/hku-summer-institute-2023-idss-2301-welcomes-applications-from-undergraduates/), The University of Hong Kong (2023 Summer)
+
+
+## Secondary Education
+------
+- Ningbo Zhenhai Jiaochuan Academy, Senior High School Department (2019-2022)
+- Ningbo Zhenhai Jiaochuan Academy, Junior High School Department (2016-2019)
