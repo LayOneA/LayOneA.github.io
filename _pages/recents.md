@@ -10,10 +10,4 @@ author_profile: true
 
 ## My recent work
 ------
-​**Digital Jinhua Technology Operation Co., LTD.​**​  
- - **Position**: Java Backend Developer Intern
- - **Period**: Jul 2024 – Aug 2024
-
-​**Baidu International Technology (Shenzhen) Co., LTD.​**​  
- - **Position**: Golang Backend Developer Intern
- - **Period**: Jun 2025 – Sep 2025
+​I am currently participating in a collaborative research project with ByteDance under the supervision of [Professor LIU Menglin](https://menglinmileyliu.github.io/index.html) and [Dr. SHI Ge](https://geshijoker.github.io/). My work focuses on the Agent Memory module of OpenViking, an open-source context database designed for AI agents.
