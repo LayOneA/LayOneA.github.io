@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Recent"
-permalink: /Recent/
+title: "Recents"
+permalink: /recents/
 author_profile: true
 
 ---
