@@ -17,3 +17,5 @@ author_profile: true
 I am currently engaged in two undergraduate capstone projects.
 
 I am currently participating in a collaborative capstone project with Huawei under the supervision of [Professor DING Hongqiang](https://ranger.uta.edu/~chqding/). This project focuses on "Efficient Data Filtering and Application of Multi-modal Foundation Models for Autonomous Driving".
+
+I am currently participating in a collaborative capstone project with SHANG QI CLOUD CHAIN under the supervision of [Professor LIAO Ruizhi](https://myweb.cuhk.edu.cn/rzliao). This project focuses on "Foot Traffic Prediction for Campus Canteens Based on Artificial Intelligence Methods".
