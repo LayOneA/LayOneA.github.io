@@ -16,9 +16,9 @@ I am a student at [The Chinese University of Hong Kong, Shenzhen](https://www.cu
 ## Education
 ------
 
-I am currently pursuing a [Bachelor of Engineering in Computer Science and Engineering](https://registry.cuhk.edu.cn/sites/default/files/2024-10/Study%20Scheme%20-%20CSE_2022-23_Circular%20%28AB2024_C036%29.pdf) degree at [School of Data Science](https://sds.cuhk.edu.cn/en), and I am scheduled to graduate in July 2026.
+I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering degree at [School of Data Science](https://sds.cuhk.edu.cn/en), and I am scheduled to graduate in July 2026.
 
-
+In September 2026, I will join [Reinforcement Learning & Responsible AI](https://sai.cuhk.edu.cn/en/page/214) Research Group, and pursue Master of Philosophy in Artificial Intelligence at [School of Artificial Intelligence](https://sai.cuhk.edu.cn/en).
 
 ## Contact
 ------
