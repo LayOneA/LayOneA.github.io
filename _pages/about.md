@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+## Greetings
+------
 HELLO!
 
 Welcome to my personal website:) 
