@@ -5,4 +5,9 @@ permalink: /publication/
 author_profile: true
 
 ---
-I am currently participating in some very interesting research activities as an undergraduate research assistant in [Prof. YU Tianshu](https://mypage.cuhk.edu.cn/academics/yutianshu/)'s team, and perhaps you will soon find something meaningful here.
+
+## Preprints
+------
+- 1. **EVA-MILP: Towards Standardized Evaluation of MILP Instance Generation**
+     Yidong Luo, Chenguang Wang, ***Jiahao Yang***, Fanzeng Xia, Tianshu Yu
+     [Paper](https://arxiv.org/html/2505.24779v2)
