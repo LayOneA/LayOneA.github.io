@@ -10,7 +10,7 @@ author_profile: true
 
 ## Past Experience
 ------
-​**Digital Jinhua Technology Operation CO., LTD.​**​  
+​**Digital Jinhua Technology Operation Co., LTD.​**​  
  - **Position**: Java Backend Developer Intern
  - **Period**: Jul 2024 – Aug 2024
 
