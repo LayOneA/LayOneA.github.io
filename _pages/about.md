@@ -12,8 +12,8 @@ HELLO!
 Welcome to my personal website:) 
 
 I am a student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). 
+
 I am currently pursuing a [Bachelor of Engineering degree in Computer Science and Engineering](https://registry.cuhk.edu.cn/sites/default/files/2024-10/Study%20Scheme%20-%20CSE_2022-23_Circular%20%28AB2024_C036%29.pdf) at [School of Data Science](https://sds.cuhk.edu.cn/en), and I am scheduled to graduate in July 2026.
-I am majoring in Computer Science and Engineering in [School of Data Science](https://sds.cuhk.edu.cn/en).  
 
 
 
