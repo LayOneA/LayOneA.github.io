@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YANG Jiahao's Personal page"
+title: "Personal page of YANG Jiahao"
 author_profile: true
 redirect_from: 
   - /about/
