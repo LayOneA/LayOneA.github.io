@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Past Experience
+## Past Internship Experience
 ------
 ​**Digital Jinhua Technology Operation Co., LTD.​**​  
  - **Position**: Java Backend Developer Intern
