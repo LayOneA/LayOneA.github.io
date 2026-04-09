@@ -13,7 +13,7 @@ Welcome to my personal website:)
 
 I am a student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). 
 
-## Education
+## My current work
 ------
 
 I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering degree at [School of Data Science](https://sds.cuhk.edu.cn/en), and I am expected to graduate in July 2026.
