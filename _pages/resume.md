@@ -11,13 +11,13 @@ I have uploaded my resume and CV in Chinese or English version. You can view and
 
 ## English Resume
 ------
-**Last update: Sep 25, 2025**
+**Last update: Sep 25, 2025** (This document may be out of date. Next update scheduled for September 2026)
 
 <i class="fas fa-file-pdf"></i> [ENG](/files/Resume.pdf)
 
 ## English CV
 ------
-**Last update: Sep 25, 2025**
+**Last update: Sep 25, 2025** (This document may be out of date. Next update scheduled for September 2026)
 
 <i class="fas fa-file-pdf"></i> [ENG](/files/CV.pdf)
 
