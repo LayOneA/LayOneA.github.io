@@ -23,7 +23,7 @@ I have uploaded my resume and CV in Chinese or English version. You can view and
 
 ## Chinese Resume
 ------
-**Last update: Sep 25, 2025**
+**Last update: Apr 11, 2026** (Next update scheduled for September 2026)
 
-<i class="fas fa-file-pdf"></i> [CHN](/files/Resume_CN.pdf)
+<i class="fas fa-file-pdf"></i> [CHN](/files/Resume_杨家豪.pdf)
 
