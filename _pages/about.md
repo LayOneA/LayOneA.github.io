@@ -13,9 +13,9 @@ HELLO!
 
 Welcome to my personal website:) 
 
-I am a MPhil student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I obtained my Bachelor of Engineering degree in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen.
+I am a MPhil student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I obtained my BEng in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen.
 
-I am a member of the [Reinforcement Learning & Responsible AI Research Group](https://sai.cuhk.edu.cn/en/page/214) at School of Artificial Intelligence. My supervisor is [Prof.LIU Menglin](https://menglinmileyliu.github.io/) and co-supervisor is [Prof.DU Mengnan](https://mengnandu.com/).
+I am a member of the [Reinforcement Learning & Responsible AI Research Group](https://sai.cuhk.edu.cn/en/page/214) at School of Artificial Intelligence. My supervisor is [Prof. LIU Menglin](https://menglinmileyliu.github.io/) and co-supervisor is [Prof. DU Mengnan](https://mengnandu.com/).
 
 ## My Research Interest 
 ------
