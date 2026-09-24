@@ -12,8 +12,8 @@ main:
   - title: "Education"
     url: /education/
 
-  - title: "Recents"
-    url: /recents/
+  # - title: "Recents"
+  #   url: /recents/
 
   - title: "Experiences"
     url: /experiences/
