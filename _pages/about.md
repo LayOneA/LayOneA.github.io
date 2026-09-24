@@ -13,14 +13,15 @@ HELLO!
 
 Welcome to my personal website:) 
 
-I am a student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). Currently, I have joined the [Reinforcement Learning & Responsible AI Research Group](https://sai.cuhk.edu.cn/en/page/214) at School of Artificial Intelligence, and plan to conduct in-depth research in the field of artificial intelligence going forward.
+I am a MPhil student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). 
 
+I am a member of the [Reinforcement Learning & Responsible AI Research Group](https://sai.cuhk.edu.cn/en/page/214) at School of Artificial Intelligence.
 
 ## My Research Interest 
 ------
-- Intelligent agent
+- Statistical Machine Learning
 - Reinforcement Learning
-- Deep Learning
+- 
 
 ## Contact
 ------
