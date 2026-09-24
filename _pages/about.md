@@ -21,9 +21,11 @@ I am a member of the [Reinforcement Learning & Responsible AI Research Group](ht
 ------
 - Statistical Machine Learning
 - Reinforcement Learning
-- 
+- Multi-Agent Learning
 
 ## Contact
 ------
+I am open to all potential learning opportunities and internship opportunities.
+
 If you would like to contact me, please send me an email. My email address is listed below.
 - **Email**: [jiahaoyang131@gmail.com](jiahaoyang131@gmail.com) or [jiahaoyang2@link.cuhk.edu.cn](jiahaoyang2@link.cuhk.edu.cn)
