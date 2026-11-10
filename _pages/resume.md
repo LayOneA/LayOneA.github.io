@@ -13,4 +13,4 @@ I have uploaded my English resume. You can view and download via the links below
 ------
 **Last update: Sep 25, 2025** (This document may be out of date. Next update scheduled for September 2026)
 
-<i class="fas fa-file-pdf"></i> [ENG](/files/Resume.pdf)
+<i class="fas fa-file-pdf"></i> [Resume (EN)](/files/EN_Resume.pdf)
